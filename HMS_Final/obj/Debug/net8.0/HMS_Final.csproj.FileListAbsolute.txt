@@ -1,0 +1,447 @@
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.exe
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.deps.json
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.runtimeconfig.json
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.pdb
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Azure.Core.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Azure.Identity.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Humanizer.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.ClientModel.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.CodeDom.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.csproj.AssemblyReference.cache
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.AssemblyInfoInputs.cache
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.AssemblyInfo.cs
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.csproj.CoreCompileInputs.cache
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.sourcelink.json
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets.build.json
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets.development.json
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.HMS_Final.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.build.HMS_Final.props
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HMS_Final.props
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HMS_Final.props
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\scopedcss\bundle\HMS_Final.styles.css
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.csproj.Up2Date
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\refint\HMS_Final.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.pdb
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.genruntimeconfig.cache
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\obj\Debug\net8.0\ref\HMS_Final.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\AutoMapper.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\computer science\Backend Developement\API\AMS-Final\HMS_Final\bin\Debug\net8.0\appsettings.json
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\appsettings.json
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.exe
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.deps.json
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.runtimeconfig.json
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\HMS_Final.pdb
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\AutoMapper.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Azure.Core.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Azure.Identity.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Humanizer.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.ClientModel.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.CodeDom.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Memory.Data.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AMS-Final\HMS_Final\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.csproj.AssemblyReference.cache
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.AssemblyInfoInputs.cache
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.AssemblyInfo.cs
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.csproj.CoreCompileInputs.cache
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.MvcApplicationPartsAssemblyInfo.cs
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.MvcApplicationPartsAssemblyInfo.cache
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.sourcelink.json
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets.build.json
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets.development.json
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.HMS_Final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.build.HMS_Final.props
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HMS_Final.props
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HMS_Final.props
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\staticwebassets.pack.json
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\scopedcss\bundle\HMS_Final.styles.css
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.csproj.Up2Date
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.dll
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\refint\HMS_Final.dll
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.pdb
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\HMS_Final.genruntimeconfig.cache
+C:\AMS-Final\HMS_Final\obj\Debug\net8.0\ref\HMS_Final.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\appsettings.json
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\HMS_Final.exe
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\HMS_Final.deps.json
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\HMS_Final.runtimeconfig.json
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\HMS_Final.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\HMS_Final.pdb
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\AutoMapper.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Azure.Core.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Azure.Identity.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Humanizer.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.ClientModel.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.CodeDom.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Complete_HAMS\HMS_Final\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.csproj.AssemblyReference.cache
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.AssemblyInfoInputs.cache
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.AssemblyInfo.cs
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.csproj.CoreCompileInputs.cache
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.MvcApplicationPartsAssemblyInfo.cs
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.sourcelink.json
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\staticwebassets.build.json
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\staticwebassets.development.json
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.HMS_Final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.build.HMS_Final.props
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HMS_Final.props
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HMS_Final.props
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\scopedcss\bundle\HMS_Final.styles.css
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.csproj.Up2Date
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.dll
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\refint\HMS_Final.dll
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.pdb
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\HMS_Final.genruntimeconfig.cache
+C:\Complete_HAMS\HMS_Final\obj\Debug\net8.0\ref\HMS_Final.dll
