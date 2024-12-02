@@ -2,13 +2,14 @@
 
 namespace HMS_Final.Controllers.Users.DTO
 {
-    public class CreateUserDTO
+    public class LoginUserDTO
     {
         [Required]
         public string UserName { get; set; }
         [Required]
-        public string Email { get; set; }
-        [Required]
         public string Password { get; set; }
+        [Required]
+        public string Role {  get; set; }
+        
     }
 }

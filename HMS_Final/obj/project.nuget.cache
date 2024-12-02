@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EgVpAe69kPY=",
+  "dgSpecHash": "CqHV2pUFL6Y=",
   "success": true,
-  "projectFilePath": "C:\\Complete_HAMS\\HMS_Final\\HMS_Final.csproj",
+  "projectFilePath": "C:\\Hams_Complete\\HMS_Final\\HMS_Final.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hi\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\hi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

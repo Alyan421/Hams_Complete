@@ -29,7 +29,7 @@ namespace HMS_Final.Controllers.Feedbacks
             {
                 var feedback = _mapper.Map<Feedback>(dto);
                 var createdFeedback = await _feedbackManager.CreateAsync(feedback);
-                return Ok(new { message = "Feedback created successfully.", data = createdFeedback });
+                return Ok(new { message = "Feedback created successfully.", Feedback = createdFeedback });
             }
             catch (Exception ex)
             {
@@ -50,7 +50,7 @@ namespace HMS_Final.Controllers.Feedbacks
                 var feedback = _mapper.Map<Feedback>(dto);
                 var updatedFeedback = await _feedbackManager.UpdateAsync(feedback);
 
-                return Ok(new { message = "Feedback updated successfully.", data = updatedFeedback });
+                return Ok(new { message = "Feedback updated successfully."});
             }
             catch (Exception ex)
             {
@@ -102,7 +102,7 @@ namespace HMS_Final.Controllers.Feedbacks
             try
             {
                 var feedbacks = await _feedbackManager.GetAllAsync();
-                var feedbackDTOs = _mapper.Map<IEnumerable<FeedbackGetByIdDTO>>(feedbacks);
+                var feedbackDTOs = _mapper.Map<IEnumerable<FeedbackGetDTO>>(feedbacks);
                 return Ok(feedbackDTOs);
             }
             catch (Exception ex)

@@ -34,8 +34,7 @@ namespace HMS_Final.Controllers.Insurances
             {
                 var insurance = _mapper.Map<Insurance>(dto);
                 var createdInsurance = await _insuranceManager.CreateAsync(insurance);
-                var createdInsuranceDTO = _mapper.Map<InsuranceGetByIdDTO>(createdInsurance);
-                return Ok(new { Message = "Insurance created successfully.", insuranceId = createdInsurance.Id });
+                return Ok(new { Message = "Insurance created successfully.", Insurance = createdInsurance });
             }
             catch (Exception ex)
             {
@@ -55,8 +54,7 @@ namespace HMS_Final.Controllers.Insurances
             {
                 var insurance = _mapper.Map<Insurance>(dto);
                 var updatedInsurance = await _insuranceManager.UpdateAsync(insurance);
-                var updatedInsuranceDTO = _mapper.Map<InsuranceGetByIdDTO>(updatedInsurance);
-                return Ok(updatedInsuranceDTO);
+                return Ok(new { Message = "Insurance updated successfully." });
             }
             catch (KeyNotFoundException)
             {
@@ -79,7 +77,7 @@ namespace HMS_Final.Controllers.Insurances
             try
             {
                 await _insuranceManager.DeleteAsync(id);
-                return NoContent();
+                return Ok(new { Message = "Insurance deleted successfully." });
             }
             catch (KeyNotFoundException)
             {
@@ -122,7 +120,7 @@ namespace HMS_Final.Controllers.Insurances
             try
             {
                 var insurances = await _insuranceManager.GetAllAsync();
-                var insuranceDTOs = _mapper.Map<IEnumerable<InsuranceGetByIdDTO>>(insurances);
+                var insuranceDTOs = _mapper.Map<IEnumerable<InsuranceGetDTO>>(insurances);
                 return Ok(insuranceDTOs);
             }
             catch (Exception ex)

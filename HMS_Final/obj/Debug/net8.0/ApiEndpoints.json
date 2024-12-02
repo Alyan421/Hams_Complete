@@ -861,6 +861,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "HMS_Final.Controllers.Users.UserController",
+    "Method": "LoginAsync",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginUserDTO",
+        "Type": "HMS_Final.Controllers.Users.DTO.LoginUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMS_Final.Controllers.Users.UserController",
+    "Method": "SignupAsync",
+    "RelativePath": "api/User/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createUserDTO",
+        "Type": "HMS_Final.Controllers.Users.DTO.CreateUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "HMS_Final.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

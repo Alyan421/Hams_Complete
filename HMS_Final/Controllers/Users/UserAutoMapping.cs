@@ -11,6 +11,8 @@ namespace HMS_Final.Mapping
             CreateMap<UserDTO, User>();
             CreateMap<CreateUserDTO, User>();
             CreateMap<UpdateUserDTO, User>();
+            CreateMap<LoginUserDTO, User>().ReverseMap();
+            CreateMap<UserGetDTO, User>().ReverseMap();
             CreateMap<User, UserDTO>();
             CreateMap<User,CreateUserDTO>();
             CreateMap<User,UpdateUserDTO>();

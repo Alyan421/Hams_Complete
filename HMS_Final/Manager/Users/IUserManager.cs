@@ -13,7 +13,6 @@ namespace HMS_Final.Manager.Users
         Task GenerateOTPAsync(int userId);
         Task AddUserToHospitalAsync(int userId, int hospitalId);
         Task RemoveUserFromHospitalAsync(int userId, int hospitalId);
-
-
+        Task<object> LoginAsync(string userName, string password);
     }
 }

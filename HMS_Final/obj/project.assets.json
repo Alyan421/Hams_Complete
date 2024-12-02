@@ -4411,11 +4411,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Complete_HAMS\\HMS_Final\\HMS_Final.csproj",
+      "projectUniqueName": "C:\\Hams_Complete\\HMS_Final\\HMS_Final.csproj",
       "projectName": "HMS_Final",
-      "projectPath": "C:\\Complete_HAMS\\HMS_Final\\HMS_Final.csproj",
+      "projectPath": "C:\\Hams_Complete\\HMS_Final\\HMS_Final.csproj",
       "packagesPath": "C:\\Users\\hi\\.nuget\\packages\\",
-      "outputPath": "C:\\Complete_HAMS\\HMS_Final\\obj\\",
+      "outputPath": "C:\\Hams_Complete\\HMS_Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hi\\AppData\\Roaming\\NuGet\\NuGet.Config",

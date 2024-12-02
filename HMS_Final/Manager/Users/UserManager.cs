@@ -14,12 +14,54 @@ namespace HMS_Final.Manager.Users
         private readonly IEmailService _emailService;
         private readonly IGenericRepository<User> _repository;
         private readonly IGenericRepository<UserHospital> _userHospitalRepository;
+        private readonly IGenericRepository<Admin> _adminRepository;
 
-        public UserManager(IGenericRepository<User> repository, IEmailService emailService, IGenericRepository<UserHospital> userHospitalRepository)
+        public UserManager(IGenericRepository<User> repository, IEmailService emailService, IGenericRepository<UserHospital> userHospitalRepository, IGenericRepository<Admin> adminRepository)
         {
             _repository = repository;
             _emailService = emailService;
             _userHospitalRepository = userHospitalRepository;
+            _adminRepository = adminRepository;
+        }
+
+        public async Task<object> LoginAsync(string userName, string password)
+        {
+            try
+            {
+                // Check if the user is a regular user
+                var user = await _repository.GetDbSet()
+                    .FirstOrDefaultAsync(u => u.UserName == userName && u.Password == password);
+
+                if (user != null && user.IsVerified)
+                {
+                    string role = "User";
+                    if (role != "User" && role != "Admin")
+                    {
+                        throw new InvalidOperationException("Invalid role specified.");
+                    }
+                    return new { UserId = user.Id, UserName = user.UserName, Password = user.Password, Role = role };
+                }
+
+                // Check if the user is an admin
+                var admin = await _adminRepository.GetDbSet()
+                    .FirstOrDefaultAsync(a => a.UserName == userName && a.Password == password);
+
+                if (admin != null)
+                {
+                    string role = "Admin";
+                    if (role != "User" && role != "Admin")
+                    {
+                        throw new InvalidOperationException("Invalid role specified.");
+                    }
+                    return new { AdminId = admin.Id, UserName = admin.UserName, Password = admin.Password, HospitalId = admin.HospitalId, Role = role };
+                }
+
+                throw new Exception("Invalid username or password.");
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error occurred while logging in.", ex);
+            }
         }
 
         public async Task<User> CreateAsync(User entity)
@@ -29,6 +71,12 @@ namespace HMS_Final.Manager.Users
                 if (entity == null)
                 {
                     throw new ArgumentNullException(nameof(entity), "User entity cannot be null.");
+                }
+                
+                // Check if the username ends with "admin"
+                if (entity.UserName.EndsWith("admin", StringComparison.OrdinalIgnoreCase))
+                {
+                    throw new InvalidOperationException("Username cannot end with 'admin'.");
                 }
 
                 // Check for duplicate username

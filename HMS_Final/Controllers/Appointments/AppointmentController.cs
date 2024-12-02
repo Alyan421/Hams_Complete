@@ -59,8 +59,7 @@ namespace HMS_Final.Controllers.Appointments
             {
                 var appointment = _mapper.Map<Appointment>(updateAppointmentDTO);
                 var updatedAppointment = await _appointmentManager.UpdateAsync(appointment);
-                var appointmentDTO = _mapper.Map<AppointmentUpdateDTO>(updatedAppointment);
-                return Ok(appointmentDTO);
+                return Ok(new { Message = "Appointment updated successfully." });
             }
             catch (KeyNotFoundException)
             {
@@ -83,7 +82,7 @@ namespace HMS_Final.Controllers.Appointments
             try
             {
                 await _appointmentManager.DeleteAsync(id);
-                return NoContent();
+                return Ok(new { Message = "Appointment deleted successfully." });
             }
             catch (KeyNotFoundException)
             {

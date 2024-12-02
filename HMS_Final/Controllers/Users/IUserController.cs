@@ -14,5 +14,9 @@ namespace HMS_Final.Controllers.Users
         Task<IActionResult> GetAllAsync();
         Task<IActionResult> VerifyOTPAsync(int id, [FromBody] long otp);
         Task<IActionResult> GenerateOTP(int id);
+        Task<IActionResult> LoginAsync(LoginUserDTO loginUserDTO);
+        Task<IActionResult> SignupAsync(CreateUserDTO createUserDTO);
+
+
     }
 }

@@ -93,7 +93,7 @@ namespace HMS_Final.Controllers.Users
                     return NotFound($"User with ID {updateUserDTO.Id} not found.");
                 }
 
-                var userDTO = _mapper.Map<UserDTO>(updatedUser);
+                var userDTO = _mapper.Map<UpdateUserDTO>(updatedUser);
                 return Ok(userDTO);
             }
             catch (Exception ex)
@@ -138,7 +138,7 @@ namespace HMS_Final.Controllers.Users
                     return NotFound("No users found.");
                 }
 
-                var userDTOs = _mapper.Map<IEnumerable<UserDTO>>(users);
+                var userDTOs = _mapper.Map<IEnumerable<UserGetDTO>>(users);
                 return Ok(userDTOs);
             }
             catch (Exception ex)
@@ -206,6 +206,58 @@ namespace HMS_Final.Controllers.Users
             {
                 await _userManager.RemoveUserFromHospitalAsync(userId, hospitalId);
                 return Ok(new { message = "User removed from hospital successfully." });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
+
+        [HttpPost("signup")]
+        public async Task<IActionResult> SignupAsync(CreateUserDTO createUserDTO)
+        {
+            try
+            {
+                if (createUserDTO == null)
+                {
+                    return BadRequest("User data is required.");
+                }
+
+                var user = _mapper.Map<User>(createUserDTO);
+                var createdUser = await _userManager.CreateAsync(user);
+
+                if (createdUser == null)
+                {
+                    return StatusCode(500, "An error occurred while creating the user.");
+                }
+
+                var userDTO = _mapper.Map<UserDTO>(createdUser);
+                return Ok(userDTO);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
+
+        [HttpPost("login")]
+        public async Task<IActionResult> LoginAsync(LoginUserDTO loginUserDTO)
+        {
+            try
+            {
+                if (loginUserDTO == null)
+                {
+                    return BadRequest("Login data is required.");
+                }
+
+                var loginResult = await _userManager.LoginAsync(loginUserDTO.UserName, loginUserDTO.Password);
+
+                if (loginResult == null)
+                {
+                    return Unauthorized("Invalid username or password, or user not verified.");
+                }
+
+                return Ok(loginResult);
             }
             catch (Exception ex)
             {
