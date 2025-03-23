@@ -145,7 +145,6 @@ namespace HMS_Final.Manager.Schedules
                     ScheduleId = scheduleId,
                     AppointmentDateTime = consultationDate
                 };
-
                 await _appointmentRepository.AddAsync(appointment);
                 await _appointmentRepository.SaveChangesAsync();
                 return true;

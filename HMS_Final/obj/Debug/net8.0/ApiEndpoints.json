@@ -862,6 +862,22 @@
   },
   {
     "ContainingType": "HMS_Final.Controllers.Users.UserController",
+    "Method": "GetUserIdByUsername",
+    "RelativePath": "api/User/GetUserIdByUsername/{username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HMS_Final.Controllers.Users.UserController",
     "Method": "LoginAsync",
     "RelativePath": "api/User/login",
     "HttpMethod": "POST",

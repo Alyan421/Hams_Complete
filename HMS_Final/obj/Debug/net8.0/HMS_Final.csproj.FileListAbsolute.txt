@@ -594,3 +594,7 @@ C:\Hams_Complete\HMS_Final\obj\Debug\net8.0\refint\HMS_Final.dll
 C:\Hams_Complete\HMS_Final\obj\Debug\net8.0\HMS_Final.pdb
 C:\Hams_Complete\HMS_Final\obj\Debug\net8.0\HMS_Final.genruntimeconfig.cache
 C:\Hams_Complete\HMS_Final\obj\Debug\net8.0\ref\HMS_Final.dll
+C:\Hams_Complete\HMS_Final\bin\Debug\net8.0\HMS_Final.staticwebassets.endpoints.json
+C:\Hams_Complete\HMS_Final\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Hams_Complete\HMS_Final\obj\Debug\net8.0\staticwebassets\msbuild.HMS_Final.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Hams_Complete\HMS_Final\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

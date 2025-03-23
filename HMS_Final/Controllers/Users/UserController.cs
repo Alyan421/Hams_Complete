@@ -264,5 +264,30 @@ namespace HMS_Final.Controllers.Users
                 return StatusCode(500, $"Internal server error: {ex.Message}");
             }
         }
+
+        [HttpGet("GetUserIdByUsername/{username}")]
+        public async Task<IActionResult> GetUserIdByUsername(string username)
+        {
+            if (string.IsNullOrWhiteSpace(username))
+            {
+                return BadRequest("Username cannot be empty.");
+            }
+
+            try
+            {
+                var userId = await _userManager.GetUserIdByUsernameAsync(username);
+                if (userId == null)
+                {
+                    return NotFound("User not found.");
+                }
+
+                return Ok(userId);
+            }
+            catch (Exception ex)
+            {
+                // Log the exception if logging is enabled
+                return StatusCode(500, "Internal server error.");
+            }
+        }
     }
 }

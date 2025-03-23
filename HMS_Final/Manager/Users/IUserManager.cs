@@ -14,5 +14,7 @@ namespace HMS_Final.Manager.Users
         Task AddUserToHospitalAsync(int userId, int hospitalId);
         Task RemoveUserFromHospitalAsync(int userId, int hospitalId);
         Task<object> LoginAsync(string userName, string password);
+        Task<int?> GetUserIdByUsernameAsync(string username);
+
     }
 }

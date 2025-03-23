@@ -16,7 +16,7 @@ namespace HMS_Final.Controllers.Users
         Task<IActionResult> GenerateOTP(int id);
         Task<IActionResult> LoginAsync(LoginUserDTO loginUserDTO);
         Task<IActionResult> SignupAsync(CreateUserDTO createUserDTO);
-
+        Task<IActionResult> GetUserIdByUsername(string username);
 
     }
 }

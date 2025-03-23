@@ -113,6 +113,12 @@ namespace HMS_Final.Manager.Users
                     throw new ArgumentNullException(nameof(entity), "User entity cannot be null.");
                 }
 
+                var allusers = await _repository.GetAllAsync();
+                if (allusers.Any(u => u.UserName == entity.UserName))
+                {
+                    throw new InvalidOperationException("Username already exists.");
+                }
+
                 var existingUser = await _repository.GetByIdAsync(entity.Id);
                 if (existingUser == null)
                 {
@@ -249,6 +255,21 @@ namespace HMS_Final.Manager.Users
             {
                 await _userHospitalRepository.DeleteAsync(userHospital);
                 await _userHospitalRepository.SaveChangesAsync();
+            }
+        }
+
+        public async Task<int?> GetUserIdByUsernameAsync(string username)
+        {
+            try
+            {
+                var user = await _repository.GetDbSet()
+                    .FirstOrDefaultAsync(u => u.UserName == username);
+
+                return user?.Id;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error occurred while retrieving user ID by username.", ex);
             }
         }
     }

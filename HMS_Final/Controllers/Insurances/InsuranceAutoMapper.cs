@@ -8,7 +8,7 @@ namespace HMS_Final.MappingProfiles
     {
         public InsuranceAutoMapper()
         {
-            CreateMap<InsuranceGetDTO, Insurance>();
+            CreateMap<InsuranceGetDTO, Insurance>().ReverseMap();
             CreateMap<InsuranceCreateDTO, Insurance>().ReverseMap();
             CreateMap<InsuranceUpdateDTO, Insurance>().ReverseMap();
             CreateMap<InsuranceDeleteDTO, Insurance>().ReverseMap();
